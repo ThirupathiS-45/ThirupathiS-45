@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Thirupathi S</h1>  
-<h3 align="center">Aspiring Data Analyst | AI & Data Science Enthusiast</h3>  
+<h3 align="center">Student | Aspiring Data Analyst | AI & Data Science Enthusiast</h3>  
 
 <p align="center">
   <a href="mailto:sthirupathi452004@gmail.com">
@@ -12,34 +12,44 @@
 
 ---
 
-## 🌟 About Me  
-🔍 Passionate about **Data Analytics, AI, and Business Intelligence**  
+## 🚀 About Me  
+🎯 Passionate about **Data Analytics, AI, and Business Intelligence**  
 📊 Skilled in **Power BI, SQL, Tableau, Python, and Data Visualization**  
-📈 Driven by **data storytelling, insights, and problem-solving**  
+📈 Transforming raw data into **actionable insights**  
 
 ---
 
-## 🛠 Tech Stack  
+## 📊 Data Analytics & Business Intelligence  
 
-**📊 Data Analytics & BI**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
-**🛢️ Databases & Programming**  
+---
+
+## 💾 Data Engineering & Database Management  
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![DAX](https://img.shields.io/badge/DAX-005C9E?style=flat&logo=microsoft&logoColor=white)  
+
+---
+
+## 🧠 Programming & Analytical Computing  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat&logo=python&logoColor=white)  
 
 ---
 
 ## 📂 Featured Projects  
 
 🔹 **Data Analytics Internship Project (Accenture)**  
-🚀 Cleaned & analyzed datasets, built reports, and presented insights.  
+🚀 Conducted data cleaning, analytics, and insight-driven reporting.  
 
 🔹 **Data Visualization Internship Project (TATA)**  
-📊 Designed interactive dashboards and simplified complex datasets.  
+📊 Developed interactive dashboards for business intelligence.  
 
 ---
 
