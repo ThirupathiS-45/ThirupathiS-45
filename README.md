@@ -1,47 +1,51 @@
-## Hi there 👋, I'm Thirupathi!
+<h1 align="center">🚀 Thirupathi S</h1>  
+<h3 align="center">Aspiring Data Analyst | AI & Data Science Enthusiast</h3>  
 
-🎓 **Student | Aspiring Data Analyst | AI & Data Science Enthusiast**  
-📍 Coimbatore, India  
-📧 sthirupathi452004@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/thirupathi-s-2517a1295)  
-
----
-
-### 📌 About Me  
-I am a **B.Tech student in Artificial Intelligence and Data Science** at **Karunya Institute of Technology and Sciences**. I have a strong interest in **Data Analytics, Business Intelligence, and Machine Learning**. I enjoy working with **Power BI, Tableau, SQL, and Python** to analyze and visualize data for meaningful insights. My goal is to build a career in **data-driven decision-making and analytics**.
-
----
-
-### 🛠 Skills & Tools  
-
-- **Data Analysis & Databases**: Data Analysis, Data Modeling, Data Understanding, MS-SQL  
-- **Data Visualization**: Power BI, MS-Excel, DAX, Matplotlib, Seaborn  
+<p align="center">
+  <a href="mailto:sthirupathi452004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>  
+  <a href="https://www.linkedin.com/in/thirupathi-s-2517a1295">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>  
 
 ---
 
-### 💡 Projects  
-
-📊 **Data Analytics Internship Project (Accenture)**  
-- Conducted a data analytics simulation, cleaned & analyzed datasets, and presented insights via PowerPoint & video.  
-
-📊 **Data Visualization Internship Project (TATA)**  
-- Developed interactive dashboards, prepared key questions for client meetings, and simplified complex datasets.  
+## 🌟 About Me  
+🔍 Passionate about **Data Analytics, AI, and Business Intelligence**  
+📊 Skilled in **Power BI, SQL, Tableau, Python, and Data Visualization**  
+📈 Driven by **data storytelling, insights, and problem-solving**  
 
 ---
 
-### 🏆 Certifications  
+## 🛠 Tech Stack  
 
-✅ **Career Essentials in Data Analysis** – Microsoft & LinkedIn  
-✅ **Data Analytics** – Accenture  
-✅ **Data Visualization: Empowering Business with Effective Insights** – TATA  
-✅ **Power BI Fundamentals** – Variablz Academy  
-✅ **Tableau** – Jobaaj Learnings  
+**📊 Data Analytics & BI**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+
+**🛢️ Databases & Programming**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![DAX](https://img.shields.io/badge/DAX-005C9E?style=flat&logo=microsoft&logoColor=white)  
 
 ---
 
-### 🔗 Connect with Me  
+## 📂 Featured Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirupathi-s-2517a1295)  
+🔹 **Data Analytics Internship Project (Accenture)**  
+🚀 Cleaned & analyzed datasets, built reports, and presented insights.  
+
+🔹 **Data Visualization Internship Project (TATA)**  
+📊 Designed interactive dashboards and simplified complex datasets.  
+
+---
+
+## 📬 Connect with Me  
+
 📧 **Email**: sthirupathi452004@gmail.com  
+🔗 **LinkedIn**: [Thirupathi S](https://www.linkedin.com/in/thirupathi-s-2517a1295)  
 
-🚀 Excited to learn and grow in the world of Data Analytics!
+💡 *"Turning Data into Actionable Insights!"* 🚀  
