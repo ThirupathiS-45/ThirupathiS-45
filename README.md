@@ -1,7 +1,5 @@
-<div style="text-align: center; padding: 30px;">
-  <h1>🚀 THIRUPATHI S</h1>
-  <h3>Student | Aspiring Data Analyst | AI & Data Science Enthusiast</h3>  
-</div>
+<h1 align="center">🚀 Thirupathi S</h1>  
+<h3 align="center">Student | Aspiring Data Analyst | AI & Data Science Enthusiast</h3>  
 
 <p align="center">
   <a href="mailto:sthirupathi452004@gmail.com">
@@ -10,8 +8,7 @@
   <a href="https://www.linkedin.com/in/thirupathi-s-2517a1295">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-
+</p>  
 
 ---
 
