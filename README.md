@@ -19,27 +19,29 @@
 
 ---
 
-## 📊 Data Analytics & Business Intelligence  
+## 📊 Tech Stack  
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+### **📈 Data Analytics & Business Intelligence**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</p>
 
----
+### **💾 Data Engineering & Database Management**  
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/DAX-005C9E?style=for-the-badge&logo=microsoft&logoColor=white">
+</p>
 
-## 💾 Data Engineering & Database Management  
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![DAX](https://img.shields.io/badge/DAX-005C9E?style=for-the-badge&logo=microsoft&logoColor=white)  
-
----
-
-## 🧠 Programming & Analytical Computing  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)  
+### **🧠 Programming & Analytical Computing**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
 ---
 
@@ -61,4 +63,3 @@
 ---
 
 ### 💡 *"Turning Data into Actionable Insights!"* 🚀  
-
