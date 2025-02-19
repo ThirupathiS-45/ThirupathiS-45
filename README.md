@@ -1,5 +1,7 @@
-<h1 align="center">🚀 Thirupathi S</h1>  
-<h3 align="center">Student | Aspiring Data Analyst | AI & Data Science Enthusiast</h3>  
+<div style="background-image: url('https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg'); background-size: cover; background-position: center; padding: 50px 0;">
+  <h1 align="center" style="color: white;">🚀 Thirupathi S</h1>
+  <h3 align="center" style="color: white;">Student | Aspiring Data Analyst | AI & Data Science Enthusiast</h3>  
+</div>
 
 <p align="center">
   <a href="mailto:sthirupathi452004@gmail.com">
@@ -9,6 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>  
+
 
 ---
 
