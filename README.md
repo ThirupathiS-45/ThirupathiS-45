@@ -19,36 +19,49 @@
 ---
 
 ## 🚀 About Me  
-🎯 AI-focused developer with hands-on experience in **real-time systems, automation, and AI applications**  
-📊 Skilled in **Python, SQL, Power BI, Tableau, Machine Learning, and Data Visualization**  
+🎯 AI-focused developer with hands-on experience in **real-time systems, automation, and scalable AI applications**  
+📊 Skilled in **Machine Learning, NLP, and Data Analytics**  
 📈 Passionate about **bridging data and decision-making** with AI-driven solutions  
 
 ---
 
 ## 📊 Tech Stack  
 
-### **📈 Data Analytics & Business Intelligence**  
+### **🧠 AI & Machine Learning**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/FAISS-008080?style=for-the-badge&logo=facebook&logoColor=white">
+  <img src="https://img.shields.io/badge/Facebook%20Prophet-4267B2?style=for-the-badge&logo=meta&logoColor=white">
+</p>  
+
+### **💻 Programming & Analytical Computing**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+</p>  
+
+### **📊 Data Analytics & BI Tools**  
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </p>  
 
-### **💾 Data Engineering & Databases**  
+### **🛠 Tools & Platforms**  
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/DAX-005C9E?style=for-the-badge&logo=microsoft&logoColor=white">
-</p>  
-
-### **🧠 Programming & AI/ML**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>  
 
 ---
@@ -56,13 +69,13 @@
 ## 📂 Featured Projects  
 
 🔹 **Real-Time DevOps Log Analyzer using AI**  
-🚀 Built an AI-driven tool with **Prophet time-series model** & Streamlit dashboards for anomaly detection.  
+🚀 AI-driven tool for log monitoring & anomaly detection with **Prophet** + Streamlit.  
 
 🔹 **AutoResearcherAI — Research to Code Generator**  
-📄 Converts **research papers into Python code** using Gemini AI + LangChain with semantic search.  
+📄 Converts research papers into **Python code** using **Gemini AI + LangChain** with semantic search.  
 
 🔹 **AI-Powered News Research Tool (Techy)**  
-📰 Extracts insights from news using **LangChain, FAISS & Hugging Face** for semantic Q&A.  
+📰 Extracts insights from news using **LangChain, FAISS & Hugging Face Transformers** for semantic Q&A.  
 
 ---
 
@@ -93,4 +106,4 @@
 
 ---
 
-### 💡 *"Turning Data into Actionable Insights with AI!"* 🚀
+### 💡 *"Building AI solutions that transform data into decisions!"* 🚀
