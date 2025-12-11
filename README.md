@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Thirupathi S</h1>  
-<h3 align="center">Student | AI-Focused Developer | Data Science Enthusiast</h3>  
+<h3 align="center">Student |Software Engineer | AI-Focused Developer | Data Science Enthusiast</h3>  
 
 <p align="center">
   <a href="mailto:sthirupathi452004@gmail.com">
