@@ -109,7 +109,7 @@
 📧 **Email**: [sthirupathi452004@gmail.com](mailto:sthirupathi452004@gmail.com)  
 🔗 **LinkedIn**: [Thirupathi S](https://www.linkedin.com/in/thirupathis/)  
 🐙 **GitHub**: [ThirupathiS-45](https://github.com/ThirupathiS-45)  
-🌐 **Portfolio**: [thirupathis.netlify.app](https://thirupathis.netlify.app/)  
+🌐 **Portfolio**: [thirupathi.tech](www.thirupathi.tech)  
 
 ---
 
