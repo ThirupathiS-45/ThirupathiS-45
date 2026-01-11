@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&color=0E75B6&lines=Software+Engineer;AI-Focused+Developer;Machine+Learning+Engineer;Data+Science+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&color=0E75B6&lines=Software+Engineer;AI-Focused+Developer;Data+Science+Enthusiast"
     alt="Typing Roles Animation"
   />
 </p>
