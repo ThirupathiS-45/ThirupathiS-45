@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Thirupathi S
 
-### AI Engineer | Data Scientist | ML Enthusiast
+### AI Engineer | Full Stack Developer | ML Enthusiast
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthirupathi452004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirupathis/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThirupathiS-45)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thirupathis.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thirupathi.tech/)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions;Transforming+Data+into+Insights;Machine+Learning+%7C+NLP+%7C+Analytics" alt="Typing SVG" />
 
