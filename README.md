@@ -18,21 +18,6 @@
 ## 🎯 About Me
 
 I'm a passionate **AI-focused Software Engineer** specializing in building intelligent systems that solve real-world problems. With expertise spanning machine learning, natural language processing, and data analytics, I create scalable solutions that bridge the gap between complex data and actionable business decisions.
-```python
-class ThirupathiS:
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.location = "Tambaram, Tamil Nadu, India"
-        self.education = "B.Tech in AI & Data Science"
-        self.interests = ["Machine Learning", "NLP", "Data Analytics", "Automation"]
-        self.current_focus = "Building production-ready AI applications"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = ThirupathiS()
-me.say_hi()
-```
 
 ---
 
