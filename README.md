@@ -173,8 +173,6 @@ I'm a passionate **AI-focused Software Engineer** specializing in building intel
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThirupathiS-45&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThirupathiS-45&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
@@ -189,22 +187,8 @@ I'm always interested in collaborating on innovative AI projects and discussing 
 
 [![Email](https://img.shields.io/badge/Email-sthirupathi452004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthirupathi452004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirupathis/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thirupathis.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thirupathi.tech/)
 
 </div>
 
 ---
-
-<div align="center">
-
-### 💭 Quote I Live By
-
-*"The best way to predict the future is to build it with AI."*
-
----
-
-**⭐ If you find my work interesting, consider starring my repositories!**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ThirupathiS-45&color=blue&style=for-the-badge)
-
-</div>
